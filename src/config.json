@@ -1,26 +1,18 @@
 {
   "currencyList": [
-    { "value": "AUS", "label": "Australia (AUS $)" },
-    { "value": "CAD", "label": "Canada (CAD $)" },
-    { "value": "USD", "label": "United States (US $)" },
-    { "value": "EUR", "label": "Germany (EUR €)" },
-    { "value": "HKD", "label": "Hong Kong (HKD $)" }
+    { "value": "ZAR", "label": "South Africa (SA R)" },
+    { "value": "USD", "label": "United States (US $)" }
   ],
   "languageList": [
-    { "value": "english", "label": "English" },
-    { "value": "german", "label": "Deutsch" },
-    { "value": "mandarin", "label": "普通话" }
+    { "value": "english", "label": "English" }
   ],
   "social": {
-    "facebook": "https://www.facebook.com/MatterDesign/",
-    "instagram": "https://www.instagram.com/p/CVwMlChIWmW",
-    "twitter": "https://twitter.com/hellomatter",
-    "youtube": "https://www.youtube.com/channel/UCEOu94Haa--QmltsSawflXg"
+    "facebook": "https://www.facebook.com/etherington"
   },
   "paymentOptions": {
     "visa": true,
     "mastercard": true,
-    "amex": true
+    "paypal": true
   },
   "footerLinks": [
     {
@@ -31,8 +23,8 @@
           "link": "/about"
         },
         {
-          "text": "Journal",
-          "link": "/blog"
+          "text": "Gallery",
+          "link": "/gallery"
         },
         {
           "text": "Privacy Policy",
@@ -52,19 +44,15 @@
           "link": "/support#contact"
         },
         {
-          "text": "Shipping & Returns",
-          "link": "/support#returns"
-        },
-        {
-          "text": "How to use this theme",
-          "link": "/how-to-use"
+          "text": "Get a Quote",
+          "link": "/get-a-quote"
         }
       ]
     }
   ],
   "headerLinks": [
     {
-      "menuLabel": "Shop",
+      "menuLabel": "Product",
       "menuLink": "/shop",
       "category": [
         {
